@@ -3,5 +3,5 @@
 Github Repository for Vs Code Hackathon.
 
 TeamMembers:
-Ghulam Usman
+Ghulam Usman, Jasper Palmer
 
